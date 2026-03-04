@@ -1,1 +1,2 @@
 ErrorDocument 404 /404.html
+AddHandler php8.5-script .html
